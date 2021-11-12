@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Fluoride Treatment",
+        "img": "https://i.ibb.co/VWmbKY5/fluoride.png",
+        "description": "We are providing Best Medical Services in over 30 specialties including cardiac surgery, cardiology, bone marrow transplant, neurosurgery and for oncology"
+    },
+    {
+        "name": "Cavity Filling",
+        "img": "https://i.ibb.co/F4DLWz3/cavity.png",
+        "description": "We are providing Best Medical Services in over 30 specialties including cardiac surgery, cardiology, bone marrow transplant, neurosurgery and for oncology"
+    },
+    {
+        "name": "Teath Whitening",
+        "img": "https://i.ibb.co/bQn7F3f/whitening.png",
+        "description": "We are providing Best Medical Services in over 30 specialties including cardiac surgery, cardiology, bone marrow transplant, neurosurgery and for oncology"
+    }
+]
