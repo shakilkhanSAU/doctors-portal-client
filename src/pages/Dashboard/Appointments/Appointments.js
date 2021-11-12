@@ -15,7 +15,7 @@ const Appointments = ({ date }) => {
     const queryDate = new Date(date).toLocaleDateString();
 
     useEffect(() => {
-        const url = `http://localhost:5000/appointments?email=${user.email}&date=${queryDate}`
+        const url = `https://desolate-thicket-66517.herokuapp.com/appointments?email=${user.email}&date=${queryDate}`
         fetch(url, {
             headers: {
                 "authorization": `Bearer ${token}`
